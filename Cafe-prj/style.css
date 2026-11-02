@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(58, 27, 6);
+}
+
+#s1{
+    letter-spacing: 15px;
+    text-align: center;
+    color: burlywood;
+    text-shadow: 2px 2px 2px peru;
+}
+
+#s2{
+
+    text-align: center;
+    font-size: 35px;
+    color: goldenrod;
+    text-shadow: 4px 4px p4x rgb(196, 165, 80);
+}
+.box1{
+    border: 4px solid cornsilk;
+    border-radius: 20%;
+ }
+.box2{
+    
+    border-radius: 50%;
+    border: 5px solid sandybrown;
+    box-shadow: 3px 3px 3px burlywood;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#s3{
+    color: chocolate;
+    text-shadow: 2px 2px 2px beige;
+}
+th{
+    font-size: 20px;
+    background-color: peru;
+    border: 3px solid burlywood;
+}
+#b{
+    border: 1px;
+    border-radius: 20%;
+}
+.tbc{
+    display: flex;
+    justify-content: center;
+}
+label ,input{
+    margin: 12px;
+    color: bisque;
+}
